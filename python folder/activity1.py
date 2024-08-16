@@ -1,0 +1,26 @@
+#data types
+#integers
+a=3
+print(type(a))
+b=8.87
+print(type(b))
+#string
+c='bob'
+print(type(c))
+#boolean
+d=bool(1)
+print(type(d))
+print(d)
+#list
+e=["stool","bench","chair"]
+print(type(e))
+#tupple
+f=("apple","mango","bananna")
+print(type(f))
+#dictionary
+g={1:"alpha",2:"beta"}
+print(type(g))
+print(g[1])
+#set
+h={"bob","builder"}
+print(type(h))
